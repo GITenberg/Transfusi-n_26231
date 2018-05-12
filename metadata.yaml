@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31873
     wikipedia: http://es.wikipedia.org/wiki/Enrique_de_Vedia
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26231#Transfusi-n
 gutenberg_issued: '2008-08-08'
 gutenberg_type: Text
 identifiers:
