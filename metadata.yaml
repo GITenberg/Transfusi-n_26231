@@ -1,0 +1,33 @@
+_repo: Transfusi-n_26231
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Murguiondo, Alejandro V.
+    gutenberg_agent_id: '31874'
+    url: http://www.gutenberg.org/2009/agents/31874
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vedia, Enrique de
+    aliases:
+    - De Vedia, Enrique
+    - Vedia y Goossens, Enrique de
+    gutenberg_agent_id: '31873'
+    url: http://www.gutenberg.org/2009/agents/31873
+    wikipedia: http://es.wikipedia.org/wiki/Enrique_de_Vedia
+description: ''
+gutenberg_issued: '2008-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26231'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- 19th century'
+- !lcc 'PQ'
+title: Transfusión
+url: http://www.gutenberg.org/ebooks/26231
